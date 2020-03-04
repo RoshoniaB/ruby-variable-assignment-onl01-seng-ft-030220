@@ -1,1 +1,1 @@
-define "HELLO WORLD"
+greeting= "HELLO WORLD"
